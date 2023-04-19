@@ -55,7 +55,11 @@ Netbeans IDE is a free open source cross-plate from Integrated Development Envir
 
 ### Create a project file in beans ###
 
-Launch the Netbeans 
+Launch the Netbeans IDE,
+Click
 ```
+File--New Project--Java--Java Application
+
+2.
 
 
