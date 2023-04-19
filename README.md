@@ -59,6 +59,7 @@ Launch the Netbeans IDE,
 Click
 ```
 File--New Project--Java--Java Application
+```
 
 2.
 
