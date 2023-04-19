@@ -38,10 +38,6 @@ These instructions will get you to develop the electricity billing system projec
 
 2.Create a project file in beans
 
-3.Drag and Drop GUI S
-
-4.Button configuration
-
 
 ## Netbeans Installation ##
 
@@ -86,8 +82,12 @@ In print button it print the all detached which was shown by the cal button like
 
 ## Acknowledgements ##
 .Inspriation
-Each and every coders are inspriation to me 
+
+Each and every coders are inspriation to me
+
+
 .References
+
 Tutus funny
  
 
