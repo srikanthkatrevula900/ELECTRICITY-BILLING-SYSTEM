@@ -5,7 +5,9 @@ The purpose of the Electricity Billing System is to automate the existing manual
 
 ### Table of contents ###
 .Abstract
+
 .Introduction
+
 .Getting Started
 .Steps to develop a EBS using java GUI
 .Electricity Billing System usage
