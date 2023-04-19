@@ -55,4 +55,7 @@ Netbeans IDE is a free open source cross-plate from Integrated Development Envir
 
 ### Create a project file in beans ###
 
+Launch the Netbeans 
+```
+
 
