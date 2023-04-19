@@ -61,6 +61,9 @@ Click
 File--New Project--Java--Java Application
 ```
 
-2.
-
+2.Alter creating the project go to the source package Create the class.
+```
+Source Package--new--Jframe
+```
+3.Click finish
 
